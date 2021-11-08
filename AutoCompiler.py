@@ -9,23 +9,24 @@ from datetime import datetime
 
 # set index and log file names
 LOG = Path("LogFile.txt")
-DESKTOP = Path("E:\Desktop")
-SOURCE = Path("E:\Desktop\Temp")
+DESKTOP = Path(r"C:\Users\design01\Desktop")
+SOURCE = Path(r"C:\Users\design01\Desktop\Transmittal")
+
+WORKING = DESKTOP
+
+try:
+    os.remove(WORKING / LOG)
+except:
+    pass
 
 # set working directory to python file location
-WORKING = Path(__file__).parent.absolute()
+# WORKING = Path(__file__).parent.absolute()
 
 # set up log file for output and error reporting with timestamp
 now = datetime.now()
 timestamp = str(now.strftime("%H:%M:%S on %d/%m/%Y"))
 logFile = open(WORKING / LOG, "w")
 logFile.write(f"This log file was created at {timestamp}.\n\n")
-
-# remove leftover output files from previous iterations
-try:
-    os.remove(WORKING / LOG)
-except:
-    pass
 
 files = []  # empty list to store file references
 pattern = "*.pdf"  # pattern for searching all the PDF in working directory
@@ -34,16 +35,20 @@ pattern = "*.pdf"  # pattern for searching all the PDF in working directory
 for dir, _, _ in os.walk(SOURCE):
     files.extend(glob(os.path.join(dir, pattern)))
 
+
 refs = []
+
 
 for i in files:
     if "VDRL" in i:
         start = i.find("SLPRAM")
         end = i.find(" - ")
-
         refs.append(i[start:end])
 
+print(refs)
+
 for i in refs:
+    print(i)
     found = ""
     for j in files:
         if i.lower() in j.lower() and "front" in j.lower():
