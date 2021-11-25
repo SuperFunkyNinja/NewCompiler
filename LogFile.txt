@@ -1,4 +1,461 @@
-This log file was created at 08:39:00 on 08/11/2021.
+This log file was created at 16:37:39 on 24/11/2021.
 
-missing reference:  - comment - front - comment - front - main - main/nVDRL- - Ram Pumps Limited.pdf
-missing reference:  - comment - front - comment - front - main - main/nVDRL- - Ram Pumps Limited.pdf
+This is the list of files (tab separated):
+
+SLPRAM-EL-G74-CA-0001 Motor Performance Curves.pdf
+SLPRAM-EL-G74-CA-0002 Motor Performance Curves.pdf
+SLPRAM-EL-G74-CA-0003 Motor Performance Curves.pdf
+SLPRAM-EL-G74-CA-0004 Motor Performance Curves.pdf
+SLPRAM-EL-G74-CA-0005 Motor Performance Curves.pdf
+SLPRAM-EL-G74-CA-0006 Motor Performance Curves.pdf
+SLPRAM-EL-G74-CA-0007 Motor Performance Curves.pdf
+SLPRAM-EL-G74-CA-0008 Motor Performance Curves.pdf
+SLPRAM-EL-G74-CA-0009 Motor Performance Curves.pdf
+SLPRAM-ME-G74-DS-0002 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G74-DS-0013 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G74-DS-0014 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G74-DS-0015 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G74-DS-0016 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G74-DS-0017 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G74-DS-0018 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G74-DS-0019 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G74-DS-0020 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-EL-G74-DW-0001 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G74-DW-0002 Detail Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0003 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0004 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G74-DW-0005 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G74-DW-0006 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G74-DW-0007 Cable Termination Diagram.pdf
+SLPRAM-EL-G74-DW-0008 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G74-DW-0009 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G74-DW-0010 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G74-DW-0011 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G74-DW-0012 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G74-DW-0013 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G74-DW-0014 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G74-DW-0015 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G74-DW-0016 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G74-DW-0017 Detail Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0018 Detail Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0019 Detail Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0020 Detail Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0021 Detail Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0022 Detail Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0023 Detail Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0024 Detail Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0025 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0026 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0027 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0028 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0029 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0030 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0031 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0032 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G74-DW-0033 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G74-DW-0034 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G74-DW-0035 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G74-DW-0036 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G74-DW-0037 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G74-DW-0038 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G74-DW-0039 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G74-DW-0040 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G74-DW-0041 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G74-DW-0042 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G74-DW-0043 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G74-DW-0044 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G74-DW-0045 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G74-DW-0046 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G74-DW-0047 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G74-DW-0048 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G74-DW-0049 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G74-DW-0050 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G74-DW-0051 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G74-DW-0052 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G74-DW-0053 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G74-DW-0054 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G74-DW-0055 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G74-DW-0056 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G74-DW-0057 Cable Termination Diagram.pdf
+SLPRAM-EL-G74-DW-0058 Cable Termination Diagram.pdf
+SLPRAM-EL-G74-DW-0059 Cable Termination Diagram.pdf
+SLPRAM-EL-G74-DW-0060 Cable Termination Diagram.pdf
+SLPRAM-EL-G74-DW-0061 Cable Termination Diagram.pdf
+SLPRAM-EL-G74-DW-0062 Cable Termination Diagram.pdf
+SLPRAM-EL-G74-DW-0063 Cable Termination Diagram.pdf
+SLPRAM-EL-G74-DW-0064 Cable Termination Diagram.pdf
+SLPRAM-EL-G74-DW-0065 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G74-DW-0066 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G74-DW-0067 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G74-DW-0068 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G74-DW-0069 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G74-DW-0070 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G74-DW-0071 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G74-DW-0072 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G74-LI-0001 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G74-LI-0002 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G74-LI-0003 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G74-LI-0004 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G74-LI-0005 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G74-LI-0006 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G74-LI-0007 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G74-LI-0008 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G74-LI-0009 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G74-SY-0001 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G74-SY-0002 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G74-SY-0003 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G74-SY-0004 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G74-SY-0005 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G74-SY-0006 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G74-SY-0007 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G74-SY-0008 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G74-SY-0009 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G75-CA-0001 Motor Performance Curves.pdf
+SLPRAM-EL-G75-CA-0003 Motor Performance Curves.pdf
+SLPRAM-EL-G75-CA-0004 Motor Performance Curves.pdf
+SLPRAM-EL-G75-CA-0005 Motor Performance Curves.pdf
+SLPRAM-EL-G75-CA-0006 Motor Performance Curves.pdf
+SLPRAM-ME-G75-DS-0002 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G75-DS-0013 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G75-DS-0014 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G75-DS-0015 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-ME-G75-DS-0016 Equipment Data Sheets for Gear Reducer.pdf
+SLPRAM-EL-G75-DW-0001 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G75-DW-0002 Detail Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0003 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0004 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G75-DW-0005 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G75-DW-0006 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G75-DW-0007 Cable Termination Diagram.pdf
+SLPRAM-EL-G75-DW-0008 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G75-DW-0017 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G75-DW-0018 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G75-DW-0019 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G75-DW-0020 Power and Control Schematic Diagram for Control Panel.pdf
+SLPRAM-EL-G75-DW-0021 Detail Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0022 Detail Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0023 Detail Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0024 Detail Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0025 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0026 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0027 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0028 Name Plate Drawing for Motor.pdf
+SLPRAM-EL-G75-DW-0029 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G75-DW-0030 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G75-DW-0031 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G75-DW-0032 Name Plate Drawing for Control Panel.pdf
+SLPRAM-EL-G75-DW-0033 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G75-DW-0034 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G75-DW-0035 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G75-DW-0036 Electrical-Control Panel Detail Drawings - Front & Back Layout Drawings with BOM.pdf
+SLPRAM-EL-G75-DW-0037 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G75-DW-0038 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G75-DW-0039 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G75-DW-0040 Connection-Interconnection Diagram with Terminal Identification.pdf
+SLPRAM-EL-G75-DW-0041 Cable Termination Diagram.pdf
+SLPRAM-EL-G75-DW-0042 Cable Termination Diagram.pdf
+SLPRAM-EL-G75-DW-0043 Cable Termination Diagram.pdf
+SLPRAM-EL-G75-DW-0044 Cable Termination Diagram.pdf
+SLPRAM-EL-G75-DW-0045 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G75-DW-0046 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G75-DW-0047 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G75-DW-0048 Earthing Connection Detail for Pump Skid.pdf
+SLPRAM-EL-G75-LI-0002 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G75-LI-0004 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G75-LI-0005 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G75-LI-0006 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G75-LI-0007 Utilities Schedule & Electrical Load List.pdf
+SLPRAM-EL-G75-SY-0001 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G75-SY-0003 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G75-SY-0004 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G75-SY-0005 Control System Description - Operation Philosophy.pdf
+SLPRAM-EL-G75-SY-0006 Control System Description - Operation Philosophy.pdf
+SLPRAM-IN-G74-DW-0001 Cause & Effect Charts.pdf
+SLPRAM-IN-G74-DW-0002 Cause & Effect Charts.pdf
+SLPRAM-IN-G74-DW-0003 Cause & Effect Charts.pdf
+SLPRAM-IN-G74-DW-0004 Cause & Effect Charts.pdf
+SLPRAM-IN-G74-DW-0005 Cause & Effect Charts.pdf
+SLPRAM-IN-G74-DW-0006 Cause & Effect Charts.pdf
+SLPRAM-IN-G74-DW-0007 Cause & Effect Charts.pdf
+SLPRAM-IN-G74-DW-0008 Cause & Effect Charts.pdf
+SLPRAM-IN-G74-DW-0009 Cause & Effect Charts.pdf
+SLPRAM-IN-G75-DW-0001 Cause & Effect Charts.pdf
+SLPRAM-IN-G75-DW-0003 Cause & Effect Charts.pdf
+SLPRAM-IN-G75-DW-0004 Cause & Effect Charts.pdf
+SLPRAM-IN-G75-DW-0005 Cause & Effect Charts.pdf
+SLPRAM-IN-G75-DW-0006 Cause & Effect Charts.pdf
+SLPRAM-ME-G74-CA-0001 Pump Performance Curves.pdf
+SLPRAM-ME-G74-CA-0002 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G74-CA-0003 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G74-CA-0004 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-CA-0005 Pump Performance Curves.pdf
+SLPRAM-ME-G74-CA-0006 Pump Performance Curves.pdf
+SLPRAM-ME-G74-CA-0007 Pump Performance Curves.pdf
+SLPRAM-ME-G74-CA-0008 Pump Performance Curves.pdf
+SLPRAM-ME-G74-CA-0009 Pump Performance Curves.pdf
+SLPRAM-ME-G74-CA-0010 Pump Performance Curves.pdf
+SLPRAM-ME-G74-CA-0011 Pump Performance Curves.pdf
+SLPRAM-ME-G74-CA-0012 Pump Performance Curves.pdf
+SLPRAM-ME-G74-CA-0013 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G74-CA-0014 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G74-CA-0015 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G74-CA-0016 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G74-CA-0017 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G74-CA-0018 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G74-CA-0019 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G74-CA-0020 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G74-CA-0021 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G74-CA-0022 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G74-CA-0023 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G74-CA-0024 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G74-CA-0025 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G74-CA-0026 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G74-CA-0027 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G74-CA-0028 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G74-CA-0029 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-CA-0030 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-CA-0031 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-CA-0032 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-CA-0033 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-CA-0034 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-CA-0035 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-CA-0036 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-DS-0005 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G74-DS-0006 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G74-DS-0007 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G74-DS-0008 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G74-DS-0009 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G74-DS-0010 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G74-DS-0011 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G74-DS-0012 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G75-DS-0001 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G75-DS-0009 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G75-DS-0010 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G75-DS-0011 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G75-DS-0012 Equipment Data Sheets for Pump.pdf
+SLPRAM-ME-G74-DS-0001 Equipment Data Sheets for Pump .pdf
+SLPRAM-EL-G74-DS-0002 Motor Data Sheet.pdf
+SLPRAM-EL-G74-DS-0003 Motor Data Sheet.pdf
+SLPRAM-EL-G74-DS-0004 Motor Data Sheet.pdf
+SLPRAM-EL-G74-DS-0005 Motor Data Sheet.pdf
+SLPRAM-EL-G74-DS-0006 Motor Data Sheet.pdf
+SLPRAM-EL-G74-DS-0007 Motor Data Sheet.pdf
+SLPRAM-EL-G74-DS-0008 Motor Data Sheet.pdf
+SLPRAM-EL-G74-DS-0009 Motor Data Sheet.pdf
+SLPRAM-EL-G75-DS-0001 Motor Data Sheet.pdf
+SLPRAM-EL-G75-DS-0003 Motor Data Sheet.pdf
+SLPRAM-EL-G75-DS-0004 Motor Data Sheet.pdf
+SLPRAM-EL-G75-DS-0005 Motor Data Sheet.pdf
+SLPRAM-EL-G75-DS-0006 Motor Data Sheet.pdf
+SLPRAM-EL-G74-DS-0001 Motor Data Sheet .pdf
+SLPRAM-ME-G74-DS-0003 Noise Data Sheets.pdf
+SLPRAM-ME-G74-DS-0021 Noise Data Sheets.pdf
+SLPRAM-ME-G74-DS-0022 Noise Data Sheets.pdf
+SLPRAM-ME-G74-DS-0023 Noise Data Sheets.pdf
+SLPRAM-ME-G74-DS-0024 Noise Data Sheets.pdf
+SLPRAM-ME-G74-DS-0025 Noise Data Sheets.pdf
+SLPRAM-ME-G74-DS-0026 Noise Data Sheets.pdf
+SLPRAM-ME-G74-DS-0027 Noise Data Sheets.pdf
+SLPRAM-ME-G74-DW-0001 General Arrangement Drawing for Slops Pump A.pdf
+SLPRAM-ME-G74-DW-0002 General Arrangement Drawing for Slops Pump B.pdf
+SLPRAM-ME-G74-DW-0003 Coupling Outline Drawing.pdf
+SLPRAM-ME-G74-DW-0004 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G74-DW-0005 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0006 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G74-DW-0007 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G74-DW-0008 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G74-DW-0009 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0010 General Arrangement Drawing for Slops Pump A.pdf
+SLPRAM-ME-G74-DW-0011 General Arrangement Drawing for Slops Pump A.pdf
+SLPRAM-ME-G74-DW-0012 General Arrangement Drawing for Slops Pump A.pdf
+SLPRAM-ME-G74-DW-0013 General Arrangement Drawing for Slops Pump A.pdf
+SLPRAM-ME-G74-DW-0014 General Arrangement Drawing for Slops Pump A.pdf
+SLPRAM-ME-G74-DW-0015 General Arrangement Drawing for Slops Pump A.pdf
+SLPRAM-ME-G74-DW-0016 General Arrangement Drawing for Slops Pump A.pdf
+SLPRAM-ME-G74-DW-0017 General Arrangement Drawing for Slops Pump A.pdf
+SLPRAM-ME-G74-DW-0018 General Arrangement Drawing for Slops Pump B.pdf
+SLPRAM-ME-G74-DW-0019 General Arrangement Drawing for Slops Pump B.pdf
+SLPRAM-ME-G74-DW-0020 General Arrangement Drawing for Slops Pump B.pdf
+SLPRAM-ME-G74-DW-0021 General Arrangement Drawing for Slops Pump B.pdf
+SLPRAM-ME-G74-DW-0022 General Arrangement Drawing for Slops Pump B.pdf
+SLPRAM-ME-G74-DW-0023 General Arrangement Drawing for Slops Pump B.pdf
+SLPRAM-ME-G74-DW-0024 General Arrangement Drawing for Slops Pump B.pdf
+SLPRAM-ME-G74-DW-0025 General Arrangement Drawing for Slops Pump B.pdf
+SLPRAM-ME-G74-DW-0026 Coupling Outline Drawing.pdf
+SLPRAM-ME-G74-DW-0027 Coupling Outline Drawing.pdf
+SLPRAM-ME-G74-DW-0028 Coupling Outline Drawing.pdf
+SLPRAM-ME-G74-DW-0029 Coupling Outline Drawing.pdf
+SLPRAM-ME-G74-DW-0030 Coupling Outline Drawing.pdf
+SLPRAM-ME-G74-DW-0031 Coupling Outline Drawing.pdf
+SLPRAM-ME-G74-DW-0032 Coupling Outline Drawing.pdf
+SLPRAM-ME-G74-DW-0033 Coupling Outline Drawing.pdf
+SLPRAM-ME-G74-DW-0034 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G74-DW-0035 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G74-DW-0036 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G74-DW-0037 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G74-DW-0038 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G74-DW-0039 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G74-DW-0040 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G74-DW-0041 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G74-DW-0042 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0043 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0044 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0045 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0046 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0047 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0048 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0049 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0050 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G74-DW-0051 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G74-DW-0052 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G74-DW-0053 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G74-DW-0054 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G74-DW-0055 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G74-DW-0056 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G74-DW-0057 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G74-DW-0058 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G74-DW-0059 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G74-DW-0060 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G74-DW-0061 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G74-DW-0062 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G74-DW-0063 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G74-DW-0064 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G74-DW-0065 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G74-DW-0066 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G74-DW-0067 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G74-DW-0068 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G74-DW-0069 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G74-DW-0070 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G74-DW-0071 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G74-DW-0072 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G74-DW-0073 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G74-DW-0074 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0075 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0076 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0077 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0078 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0079 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0080 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G74-DW-0081 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-CA-0001 Pump Performance Curves.pdf
+SLPRAM-ME-G75-CA-0002 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G75-CA-0003 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G75-CA-0004 Approach 1 Calculations.pdf
+SLPRAM-ME-G75-CA-0009 Pump Performance Curves.pdf
+SLPRAM-ME-G75-CA-0010 Pump Performance Curves.pdf
+SLPRAM-ME-G75-CA-0011 Pump Performance Curves.pdf
+SLPRAM-ME-G75-CA-0012 Pump Performance Curves.pdf
+SLPRAM-ME-G75-CA-0013 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G75-CA-0014 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G75-CA-0015 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G75-CA-0016 Horse Power Calculations for Pump.pdf
+SLPRAM-ME-G75-CA-0017 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G75-CA-0018 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G75-CA-0019 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G75-CA-0020 Pulsation Damper Design Calculations.pdf
+SLPRAM-ME-G75-CA-0021 Approach 1 Calculations.pdf
+SLPRAM-ME-G75-CA-0022 Approach 1 Calculations.pdf
+SLPRAM-ME-G75-CA-0023 Approach 1 Calculations.pdf
+SLPRAM-ME-G75-CA-0024 Approach 1 Calculations.pdf
+SLPRAM-ME-G74-DS-0028 Noise Data Sheets.pdf
+SLPRAM-ME-G75-DS-0003 Noise Data Sheets.pdf
+SLPRAM-ME-G75-DS-0017 Noise Data Sheets.pdf
+SLPRAM-ME-G75-DS-0018 Noise Data Sheets.pdf
+SLPRAM-ME-G75-DS-0019 Noise Data Sheets.pdf
+SLPRAM-ME-G75-DS-0020 Noise Data Sheets.pdf
+SLPRAM-ME-G74-DS-0004 Safety Instruction Sheet.pdf
+SLPRAM-ME-G75-DS-0004 Safety Instruction Sheet.pdf
+SLPRAM-ME-G74-DS-0029 Safety Instruction Sheet .pdf
+SLPRAM-ME-G74-DS-0030 Safety Instruction Sheet .pdf
+SLPRAM-ME-G74-DS-0031 Safety Instruction Sheet .pdf
+SLPRAM-ME-G74-DS-0032 Safety Instruction Sheet .pdf
+SLPRAM-ME-G74-DS-0033 Safety Instruction Sheet .pdf
+SLPRAM-ME-G74-DS-0034 Safety Instruction Sheet .pdf
+SLPRAM-ME-G74-DS-0035 Safety Instruction Sheet .pdf
+SLPRAM-ME-G74-DS-0036 Safety Instruction Sheet .pdf
+SLPRAM-ME-G75-DS-0021 Safety Instruction Sheet .pdf
+SLPRAM-ME-G75-DS-0022 Safety Instruction Sheet .pdf
+SLPRAM-ME-G75-DS-0023 Safety Instruction Sheet .pdf
+SLPRAM-ME-G75-DS-0024 Safety Instruction Sheet .pdf
+SLPRAM-ME-G75-DW-0001 General Arrangement Drawing for Slops Pump.pdf
+SLPRAM-ME-G75-DW-0003 Coupling Outline Drawing.pdf
+SLPRAM-ME-G75-DW-0004 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G75-DW-0005 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-DW-0006 Detail Drawing for Pulsation Damper - Suction .pdf
+SLPRAM-ME-G75-DW-0007 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G75-DW-0008 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G75-DW-0009 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-DW-0017 General Arrangement Drawing for Slops Pump.pdf
+SLPRAM-ME-G75-DW-0018 General Arrangement Drawing for Slops Pump.pdf
+SLPRAM-ME-G75-DW-0019 General Arrangement Drawing for Slops Pump.pdf
+SLPRAM-ME-G75-DW-0020 General Arrangement Drawing for Slops Pump.pdf
+SLPRAM-ME-G75-DW-0021 Coupling Outline Drawing.pdf
+SLPRAM-ME-G75-DW-0022 Coupling Outline Drawing.pdf
+SLPRAM-ME-G75-DW-0023 Coupling Outline Drawing.pdf
+SLPRAM-ME-G75-DW-0024 Coupling Outline Drawing.pdf
+SLPRAM-ME-G75-DW-0025 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G75-DW-0026 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G75-DW-0027 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G75-DW-0028 Pump Cross Sectional Drawing & BOM.pdf
+SLPRAM-ME-G75-DW-0029 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-DW-0030 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-DW-0031 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-DW-0032 Detail Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-DW-0033 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G75-DW-0034 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G75-DW-0035 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G75-DW-0036 Detail Drawing for Pulsation Damper - Suction.pdf
+SLPRAM-ME-G75-DW-0037 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G75-DW-0038 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G75-DW-0039 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G75-DW-0040 Detail Drawing for Pulsation Damper - Discharge.pdf
+SLPRAM-ME-G75-DW-0041 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G75-DW-0042 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G75-DW-0043 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G75-DW-0044 Name Plate Drawing for Pumps.pdf
+SLPRAM-ME-G75-DW-0045 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-DW-0046 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-DW-0047 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-ME-G75-DW-0048 Name Plate Drawing for Gear Reducer.pdf
+SLPRAM-PS-G74-DW-0001 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G74-DW-0002 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G74-DW-0003 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G74-DW-0004 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G74-DW-0005 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G74-DW-0006 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G74-DW-0007 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G74-DW-0008 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G74-DW-0009 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G75-DW-0001 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G75-DW-0003 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G75-DW-0004 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G75-DW-0005 Piping & Instrument Diagrams.pdf
+SLPRAM-PS-G75-DW-0006 Piping & Instrument Diagrams.pdf
+SLPRAM-ST-G74-CA-0001 Structural Steel Calculations.pdf
+SLPRAM-ST-G74-CA-0002 Structural Steel Calculations.pdf
+SLPRAM-ST-G74-CA-0003 Structural Steel Calculations.pdf
+SLPRAM-ST-G74-CA-0004 Structural Steel Calculations.pdf
+SLPRAM-ST-G74-CA-0005 Structural Steel Calculations.pdf
+SLPRAM-ST-G74-CA-0006 Structural Steel Calculations.pdf
+SLPRAM-ST-G74-CA-0007 Structural Steel Calculations.pdf
+SLPRAM-ST-G74-CA-0008 Structural Steel Calculations.pdf
+SLPRAM-ST-G74-CA-0009 Structural Steel Calculations.pdf
+SLPRAM-ST-G74-DW-0001 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G74-DW-0002 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G74-DW-0003 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G74-DW-0004 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G74-DW-0005 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G74-DW-0006 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G74-DW-0007 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G74-DW-0008 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G74-DW-0009 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G75-CA-0001 Structural Steel Calculations.pdf
+SLPRAM-ST-G75-CA-0003 Structural Steel Calculations.pdf
+SLPRAM-ST-G75-CA-0004 Structural Steel Calculations.pdf
+SLPRAM-ST-G75-CA-0005 Structural Steel Calculations.pdf
+SLPRAM-ST-G75-CA-0006 Structural Steel Calculations.pdf
+SLPRAM-ST-G75-DW-0001 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G75-DW-0003 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G75-DW-0004 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G75-DW-0005 Skid Base Structural Drawing (with BOM).pdf
+SLPRAM-ST-G75-DW-0006 Skid Base Structural Drawing (with BOM).pdf
