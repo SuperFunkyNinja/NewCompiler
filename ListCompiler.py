@@ -13,6 +13,7 @@ END_ROW = 500
 # set index and log file names
 # EXCEL = Path("NewIndex - data.xlsx")
 EXCEL = Path("NewIndex.xlsx")
+
 LOG = Path("LogFile.txt")
 DESKTOP = Path(r"C:\Users\design01\Desktop")
 
